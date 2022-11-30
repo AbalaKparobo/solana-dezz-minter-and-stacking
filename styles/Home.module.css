@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  background: #1F1F1F
 }
 
 .main {
@@ -126,4 +127,8 @@
   .logo img {
     filter: invert(1);
   }
+}
+
+.wallet-adapter.button-trigger {
+  background-color: #00cc00;
 }
